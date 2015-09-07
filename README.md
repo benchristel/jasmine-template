@@ -6,4 +6,4 @@ Setting up a new Javascript project with Jasmine specs can be a pain. You have t
 curl -o https://raw.githubusercontent.com/benchristel/jasmine-template/master/spec.html spec.html
 ```
 
-and add script tags for your source files. Done!
+and replace the placeholder test with your own. Now you're doing TDD!
